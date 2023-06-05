@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=mate-panel-launcher
+Icon[fr_FR]=mate-panel-launcher
+Exec=/bin/bash /opt/Open-Close-sr0/scripts/open-sr0.sh
+Name[fr_FR]=ferme-lecteur-optique
+Name=ferme-lecteur-optique
